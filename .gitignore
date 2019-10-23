@@ -1,0 +1,7 @@
+*
+
+!/.gitignore
+!/models
+!/*.py
+!/README.md
+!/requirements.txt
